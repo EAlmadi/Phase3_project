@@ -60,9 +60,9 @@ Create a fork.
 
 
 ## Reccomendations 
-
-
-
+1. 
+2. 
+3. 
 ## Testing
 To run the cells press ctrl+shift
 You'll need to download the dataset required 
