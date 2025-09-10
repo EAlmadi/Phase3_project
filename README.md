@@ -5,7 +5,7 @@ Neema Naledi,
 Elsie Almadi,
 Elvis Wanjohi,
 Stephen Gachingu,
-Mark muriithi.
+Mark Muriithi.
 
 ## Business Understanding
 *__Overview__*
@@ -60,8 +60,9 @@ Create a fork.
 
 
 ## Reccomendations 
-
-
+1. 
+2. 
+3. 
 
 ## Testing
 To run the cells press ctrl+shift
