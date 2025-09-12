@@ -8,7 +8,7 @@ Stephen Gachingu,
 Mark Muriithi.
 
 ## 1.Business Understanding
-* 1.1 __Overview__*
+1.1 * __Overview__*
 SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
 
 *__The Problem__:* 
