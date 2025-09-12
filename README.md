@@ -8,7 +8,7 @@ Stephen Gachingu,
 Mark Muriithi.
 
 ## 1.Business Understanding
-* __1.1 Overview__*
+*__1.1 Overview__*
 
 SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
 
@@ -70,8 +70,12 @@ Why we decided to keep outliers:
 
 
 ## Data Preparation
+
+In this section the Syria Tel dataset is prepared for analysis by cleaning, transforming and standardizing the data. The goal is to ensure accuracy, handle missing values, and make the dataset ready for further exploration and modeling.
+
 1. __*Data Cleaning*__
 
+We started by loading our data into a dataframe called Syriatel_data then proceeded to look at our dataset which contained 3333 rows and 21 collumns.
 
 2. __*Added Calculated Columns*__
 
