@@ -9,18 +9,18 @@ Mark Muriithi.
 
 ## Business Understanding
 *__Overview__*
-##### SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
+SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
 
 *__The Problem__:* 
-##### SyriaTel is losing a significant amount of revenue because many customers are canceling their services. At present, the company does not have a reliable system to predict which customers are most likely to leave. Without such a system, it is difficult to intervene in time to retain customers, which ultimately leads to reduced profits and loss of market share.
+ SyriaTel is losing a significant amount of revenue because many customers are canceling their services. At present, the company does not have a reliable system to predict which customers are most likely to leave. Without such a system, it is difficult to intervene in time to retain customers, which ultimately leads to reduced profits and loss of market share.
 *__Objectives__:* 
-##### The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
+The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
 *__Success Criteria__:* 
-##### We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
+We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
 ## Data Understanding
 **Data set used**:
-##### Our analysis stems from the [https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset] from kaggle.
-##### It contains customer account and usage information for a telecommunications company.
+ Our analysis stems from the [https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset] from kaggle.
+It contains customer account and usage information for a telecommunications company.
 
 The dataset does not specify the time frame; it is a cross-sectional snapshot of customer behavior.
 
