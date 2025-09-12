@@ -124,6 +124,6 @@ Contributions to the Telecommunications Analysis are welcome! If you have any su
 
 ## Support
 For questions or support, please contact:
-naledineema@gmail.com,
+naledineema@gmail.com, leeelvis562@gmail.com, aginalmadi@gmail.com, mark.muriithi@gmail.com and 
 
 
