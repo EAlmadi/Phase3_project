@@ -82,7 +82,7 @@ Upon inspection of the dataset, we found it had no missing values or duplicated 
 
 2. __*Data Manipulation*__
 
-We then added columns that we deemed useful in our analysis. We changed our area code column to an object rather than it being an integer as it is categorical. We followed by standardizing our collumns so that our model can be effective.
+We then added columns that we deemed useful in our analysis. We changed our area code column to an object rather than it being an integer as it is categorical. The phone number column was dropped as it was not necessary for our analysis. We followed by standardizing our columns so that our model can be effective.
 
 3. __*Exploratory Data Analysis*__
 
