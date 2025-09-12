@@ -19,7 +19,7 @@ Mark Muriithi.
 ##### We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
 ## Data Understanding
 **Data set used**:
-##### Our analysis stems from the https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset from kaggle.
+##### Our analysis stems from the [https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset] from kaggle.
 
 **Reasons for data selection**:
 
