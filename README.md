@@ -14,7 +14,7 @@ Mark Muriithi.
 *__The Problem__:* 
 ##### SyriaTel is losing a significant amount of revenue because many customers are canceling their services. At present, the company does not have a reliable system to predict which customers are most likely to leave. Without such a system, it is difficult to intervene in time to retain customers, which ultimately leads to reduced profits and loss of market share.
 *__Objectives__:* 
-
+##### The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
 *__Success Criteria__:* 
 
 ## Data Understanding
