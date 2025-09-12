@@ -73,16 +73,20 @@ We started by getting the necessary libraries to analyse our data. We imported p
 
 We loaded our data into a dataframe called Syriatel_data then proceeded to look at our dataset which contained 3333 rows and 21 columns. 
 
-We then looked for which of our columns are numerical and which are categorical and adjusted our Area code column to a numerical feature for easier analysis.
+We then looked for which of our columns are numerical and which are categorical 
 
 
 1. __*Data Cleaning*__
 
 Upon inspection of the dataset, we found it had no missing values or duplicated items. 
 
-2. __*Added Calculated Columns*__
+2. __*Data Manipulation*__
 
-We then added columns that we deemed useful in our analysis.
+We then added columns that we deemed useful in our analysis. We changed our area code column to an object rather than it being an integer as it is categorical. We followed by standardizing our collumns so that our model can be effective.
+
+3. __*Exploratory Data Analysis*__
+
+Next we generated visualisations to check for the relationship between the features especially  'churn' as it is our target variable.  WE used bar graphs, correlation plots, distribution plots and kde plot for our visuals.
 
 ## 4. Modeling
 __Visual Data Analysis:__
