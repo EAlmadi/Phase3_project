@@ -20,7 +20,13 @@ Mark Muriithi.
 ## Data Understanding
 **Data set used**:
 ##### Our analysis stems from the [https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset] from kaggle.
+##### It contains customer account and usage information for a telecommunications company.
 
+The dataset does not specify the time frame; it is a cross-sectional snapshot of customer behavior.
+
+It consists of 3,333 rows and 21 columns.
+
+The target variable is churn. This is a binary variable that indicates whether a customer has churned (True) or not (False). Since the target is categorical, it will be encoded during data preparation to allow machine learning models to process it.
 **Reasons for data selection**:
 
 
