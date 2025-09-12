@@ -27,6 +27,7 @@ The dataset does not specify the time frame; it is a cross-sectional snapshot of
 It consists of 3,333 rows and 21 columns.
 
 The target variable is churn. This is a binary variable that indicates whether a customer has churned (True) or not (False). Since the target is categorical, it will be encoded during data preparation to allow machine learning models to process it.
+
 **Reasons for data selection**:
 
 
