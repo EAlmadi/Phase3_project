@@ -8,7 +8,7 @@ Stephen Gachingu,
 Mark Muriithi.
 
 ## 1.Business Understanding
- * __1.1 Overview__*
+* __1.1 Overview__*
 
 SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
 
@@ -36,9 +36,9 @@ The specific objectives of the project are:
 
 The project is guided by the following research questions:
 
-What characteristics are most strongly associated with customers who churn?
-Which machine learning algorithm provides the best predictive performance for churn classification?
-How can the insights from the churn model be applied to design effective customer retention strategies?
+1. What characteristics are most strongly associated with customers who churn?
+2. Which machine learning algorithm provides the best predictive performance for churn classification?
+3. How can the insights from the churn model be applied to design effective customer retention strategies?
 
 *__1.6 Success Criteria__:* 
 
@@ -47,7 +47,7 @@ The success of this project will be assessed in three ways. First, it should gen
 ## 2. Data Understanding
 **Data set used**:
 
- Our analysis stems from the [https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset] from kaggle.
+ Our analysis stems from the {https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset} from kaggle.
 It contains customer account and usage information for a telecommunications company.
 
 The dataset does not specify the time frame; it is a cross-sectional snapshot of customer behavior.
