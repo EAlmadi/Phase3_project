@@ -16,7 +16,7 @@ Mark Muriithi.
 *__Objectives__:* 
 ##### The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
 *__Success Criteria__:* 
-##### We will have achieved success when we have managed to discover patterns that lead to churningand ways of meeting our objective
+##### We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
 ## Data Understanding
 **Data set used**:
 
