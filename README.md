@@ -26,7 +26,11 @@ Mark Muriithi.
 
 
 **Outliers**: 
+Why we decided to keep outliers:
 
+1. customer behavior naturally varies widely.
+2. Heavy users who suddenly reduce usage might be prime churn candidates. These patterns are crucial for retention strategies
+3. Customers with extremely high usage are often the most profitable clients and removing them would eliminate key revenue insights
 
 **Merged Data**:
 
