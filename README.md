@@ -19,9 +19,31 @@ SyriaTel is a telecommunication company that specializes in the provision of dat
 *__1.3 Objectives__:* 
 
 The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
-*__1.4 Success Criteria__:* 
 
-We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
+*__1.4 Project Objectives__*
+
+Main Objective
+The main objective of this project is to develop a machine learning classifier that can accurately predict whether a SyriaTel customer is likely to churn.
+
+Specific Objectives
+The specific objectives of the project are:
+
+To analyze customer attributes and usage patterns in order to identify the key drivers of churn.
+To develop, train, and evaluate predictive models that classify customers as churners or non-churners.
+To generate actionable business insights and recommendations, based on the model outputs, that can support strategies to reduce customer churn.
+
+*__1.5 Research Questions__*
+
+The project is guided by the following research questions:
+
+What characteristics are most strongly associated with customers who churn?
+Which machine learning algorithm provides the best predictive performance for churn classification?
+How can the insights from the churn model be applied to design effective customer retention strategies?
+
+*__1.6 Success Criteria__:* 
+
+The success of this project will be assessed in three ways. First, it should generate actionable insights that SyriaTel can use to reduce churn rates in the future. Second, the predictive model should achieve acceptable levels of performance, with high accuracy and a strong ability to correctly identify customers who are likely to leave. Finally, the results should be presented in a way that is clear and interpretable, so that they can be easily understood and applied by business managers and decision-makers
+
 ## 2. Data Understanding
 **Data set used**:
 
