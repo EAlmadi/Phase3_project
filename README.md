@@ -56,8 +56,6 @@ It consists of 3,333 rows and 21 columns.
 
 The target variable is churn. This is a binary variable that indicates whether a customer has churned (True) or not (False). Since the target is categorical, it will be encoded during data preparation to allow machine learning models to process it.
 
-**Reasons for data selection**:
-
 
 **Outliers**: 
 Why we decided to keep outliers:
@@ -66,21 +64,27 @@ Why we decided to keep outliers:
 2. Heavy users who suddenly reduce usage might be prime churn candidates. These patterns are crucial for retention strategies
 3. Customers with extremely high usage are often the most profitable clients and removing them would eliminate key revenue insights
 
-**Merged Data**:
 
-
-## Data Preparation
+## 3. Data Preparation
 
 In this section the Syria Tel dataset is prepared for analysis by cleaning, transforming and standardizing the data. The goal is to ensure accuracy, handle missing values, and make the dataset ready for further exploration and modeling.
 
+We started by getting the necessary libraries to analyse our data. We imported pandas for data manipulation, Numpy for numerical operations, seaborn and matplotlib for visualizations of patterns and trends
+
+We loaded our data into a dataframe called Syriatel_data then proceeded to look at our dataset which contained 3333 rows and 21 columns. 
+
+We then looked for which of our columns are numerical and which are categorical and adjusted our Area code column to a numerical feature for easier analysis.
+
+
 1. __*Data Cleaning*__
 
-We started by loading our data into a dataframe called Syriatel_data then proceeded to look at our dataset which contained 3333 rows and 21 collumns.
+Upon inspection of the dataset, we found it had no missing values or duplicated items. 
 
 2. __*Added Calculated Columns*__
 
+We then added columns that we deemed useful in our analysis.
 
-## Modeling
+## 4. Modeling
 __Visual Data Analysis:__
 
 
