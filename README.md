@@ -9,15 +9,17 @@ Mark Muriithi.
 
 ## Business Understanding
 *__Overview__*
+##### SyriaTel is a telecommunication company that specializes in the provision of data and voice services. Like its competitors, the company’s overarching goal is profit maximization. However, one of the major challenges it faces is customer churn, which occurs when subscribers cancel their services and switch to competitors. This project seeks to address that challenge through data-driven methods
 
 *__The Problem__:* 
-
+##### SyriaTel is losing a significant amount of revenue because many customers are canceling their services. At present, the company does not have a reliable system to predict which customers are most likely to leave. Without such a system, it is difficult to intervene in time to retain customers, which ultimately leads to reduced profits and loss of market share.
 *__Objectives__:* 
-
+##### The main business objective is to reduce customer churn by predicting which customers are at risk of leaving. Achieving this will allow SyriaTel to take timely action and improve customer retention
 *__Success Criteria__:* 
-
+##### We will have achieved success when we have managed to discover patterns that lead to customer churning and ways of meeting our objective
 ## Data Understanding
 **Data set used**:
+##### Our analysis stems from the https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset from kaggle.
 
 **Reasons for data selection**:
 
@@ -26,7 +28,11 @@ Mark Muriithi.
 
 
 **Outliers**: 
+Why we decided to keep outliers:
 
+1. customer behavior naturally varies widely.
+2. Heavy users who suddenly reduce usage might be prime churn candidates. These patterns are crucial for retention strategies
+3. Customers with extremely high usage are often the most profitable clients and removing them would eliminate key revenue insights
 
 **Merged Data**:
 
