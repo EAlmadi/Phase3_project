@@ -98,7 +98,7 @@ We used the '''train test split split method to split the data into training and
 __Visual Data Analysis:__
 
 
-## Evaluation
+## 5. Evaluation
 Precision, recall and f1 score were used to evaluate our modells and plotted a bar graph to show the results..
 
 ROC curves were plotted and AUC scores calculated so as to do a comparison of the curves of the 2 models
@@ -120,31 +120,40 @@ Create a fork.
 ## Key Findings
 1. Logistic Regression (green curve):
 
-AUC = 0.808
-This means Logistic Regression is good at separating churn vs. non-churn customers, with about 81% ability to rank positive cases higher than negative cases.
-The curve is well above the diagonal baseline (random guessing), showing strong predictive power.
+* AUC = 0.808
+* This means Logistic Regression is good at separating churn vs. non-churn customers, with about 81% ability to rank positive cases higher than negative cases.
+* The curve is well above the diagonal baseline (random guessing), showing strong predictive power.
 
 2. Decision Tree (blue curve):
 
-AUC = 0.793
-Very close to Logistic Regression in performance, but slightly lower.
+* AUC = 0.793
+* Very close to Logistic Regression in performance, but slightly lower.
 Still much better than random guessing.
 
-3.Comparison:
+3. Comparison:
 
-Both models perform almost equally well in terms of AUC.
-Logistic Regression has a small edge in separating churners from non-churners
+* Both models perform almost equally well in terms of AUC.
+* Logistic Regression has a small edge in separating churners from non-churners
 
+## Insights
+* Both models agree: customer service calls are a strong churn indicator where it affects churn both positively or negatively depending on how a customer is treated .
+* Different perspectives:
+Logistic highlights plans and customer service interaction.
+Decision Tree highlights usage and billing behavior.
+* Business impact:
+Improve customer support quality to reduce churn.
+Revisit international plan pricing.
+Offer loyalty rewards for heavy users to reduce churn risk.
 ## Reccomendations 
 1. Improve Customer Support Quality
 
 * High service call volume is strongly tied to churn.
 * Invest in better training, quicker resolutions, and proactive issue handling.
 
-2.Reassess International Plan Pricing & Policies
+2. Reassess International Plan Pricing & Policies
 
-International plan customers churn more.
-Review pricing, offer bundled discounts, or add loyalty incentives to retain them.
+* International plan customers churn more.
+* Review pricing, offer bundled discounts, or add loyalty incentives to retain them.
 
 3. Retain High-Usage Customers
 
