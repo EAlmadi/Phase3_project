@@ -105,38 +105,27 @@ ROC curves were plotted and AUC scores calculated so as to do a comparison of th
 
 We plotted a confusion matrix to see where our True and False Positives and Negatives lie 
 
-
-## Prerequisites
-*Getting started*
-1. Fork 
-Create a fork.
-
-2. Clone 
-
-- Type: git clone
-(you can clone using either *SSH key*  or the *HTTPS*)
-[(https://github.com/EAlmadi/Phase3_project.git)]
-
-## Key Findings
-1. Logistic Regression (green curve):
+## 6. Key Findings
+__1. Logistic Regression__:
 
 * AUC = 0.808
 * This means Logistic Regression is good at separating churn vs. non-churn customers, with about 81% ability to rank positive cases higher than negative cases.
 * The curve is well above the diagonal baseline (random guessing), showing strong predictive power.
 
-2. Decision Tree (blue curve):
+__2. Decision Tree (blue curve):__
 
 * AUC = 0.793
 * Very close to Logistic Regression in performance, but slightly lower.
 Still much better than random guessing.
 
-3. Comparison:
+__3. Comparison:__
 
 * Both models perform almost equally well in terms of AUC.
 * Logistic Regression has a small edge in separating churners from non-churners
 
 ## Insights
-* Both models agree: customer service calls are a strong churn indicator where it affects churn both positively or negatively depending on how a customer is treated .
+* Both models agree:
+customer service calls are a strong churn indicator where it affects churn both positively or negatively depending on how a customer is treated .
 * Different perspectives:
 Logistic highlights plans and customer service interaction.
 Decision Tree highlights usage and billing behavior.
@@ -144,18 +133,18 @@ Decision Tree highlights usage and billing behavior.
 Improve customer support quality to reduce churn.
 Revisit international plan pricing.
 Offer loyalty rewards for heavy users to reduce churn risk.
-## Reccomendations 
-1. Improve Customer Support Quality
+## 7. Reccomendations 
+__1. Improve Customer Support Quality__
 
 * High service call volume is strongly tied to churn.
 * Invest in better training, quicker resolutions, and proactive issue handling.
 
-2. Reassess International Plan Pricing & Policies
+__2. Reassess International Plan Pricing & Policies__
 
 * International plan customers churn more.
 * Review pricing, offer bundled discounts, or add loyalty incentives to retain them.
 
-3. Retain High-Usage Customers
+__3. Retain High-Usage Customers__
 
 Heavy day-minute users are at lower risk of churning but we've to keep the customers satisfied by creating targeted retention programs (loyalty points, discounted packages, or “VIP customer” care) to reduce churn on loyal customers.
 
