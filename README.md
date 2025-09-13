@@ -91,11 +91,11 @@ Next we generated visualisations to check for the relationship between the featu
 ## 4. Modeling
 We resampled the data to address the issue of class imbalance by using SMOTE and Stratified sampling so that the models can learn from both classes
 
-We used the '''train test split split method to split the data into training and testing sets using a ```70/30 split
+We used the train test split split method to split the data into training and testing sets using a ```70/30 split
 
 2 models were used to model our data i.e logistic regresion and decision trees to find out which trained our data better.
 
-__Visual Data Analysis:__
+
 
 
 ## 5. Evaluation
@@ -149,12 +149,6 @@ __3. Retain High-Usage Customers__
 Heavy day-minute users are at lower risk of churning but we've to keep the customers satisfied by creating targeted retention programs (loyalty points, discounted packages, or “VIP customer” care) to reduce churn on loyal customers.
 
 
-## Testing
-To run the cells press ctrl+shift
-You'll need to download the dataset required 
-You can get the dataset from:
-[https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset]
-
 ## Technologies Used
 - Python: Primary programming language
 - Pandas: Data manipulation and analysis
@@ -162,8 +156,6 @@ You can get the dataset from:
 - Jupyter Notebook: Development environment
 - Git: Commit and push to remote repository
 
-## Contributions
-Contributions to the Telecommunications Analysis are welcome! If you have any suggestions, bug fixes, or additional features you'd like to add to the dashoard, please feel free to submit a pull request or open an issue.
 
 ## Support
 For questions or support, please contact:
