@@ -90,6 +90,7 @@ Next we generated visualisations to check for the relationship between the featu
 
 ## 4. Modeling
 * We resampled the data to address the issue of class imbalance by using SMOTE and Stratified sampling so that the models can learn from both classes
+* Categorical features were turned into numerical datatypes for easier modelling
 
 * We used the train test split split method to split the data into training and testing sets using a ```70/30 split
 
@@ -152,7 +153,7 @@ Heavy day-minute users are at lower risk of churning but we've to keep the custo
 ## Technologies Used
 - Python: Primary programming language
 - Pandas: Data manipulation and analysis
-- skleran: For modelling purposes
+- sklearn: For modelling purposes
 - Matplotlib: Data visualization
 - Jupyter Notebook: Development environment
 - Git: Commit and push to remote repository
