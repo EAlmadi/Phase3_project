@@ -89,21 +89,21 @@ We then added columns that we deemed useful in our analysis. We changed our area
 Next we generated visualisations to check for the relationship between the features especially  '#churn' as it is our target variable.  WE used bar graphs, correlation plots, distribution plots and kde plot for our visuals.
 
 ## 4. Modeling
-We resampled the data to address the issue of class imbalance by using SMOTE and Stratified sampling so that the models can learn from both classes
+* We resampled the data to address the issue of class imbalance by using SMOTE and Stratified sampling so that the models can learn from both classes
 
-We used the train test split split method to split the data into training and testing sets using a ```70/30 split
+* We used the train test split split method to split the data into training and testing sets using a ```70/30 split
 
-2 models were used to model our data i.e logistic regresion and decision trees to find out which trained our data better.
+* 2 models were used to model our data i.e logistic regresion and decision trees to find out which trained our data better.
 
 
 
 
 ## 5. Evaluation
-Precision, recall and f1 score were used to evaluate our modells and plotted a bar graph to show the results..
+* Precision, recall and f1 score were used to evaluate our modells and plotted a bar graph to show the results..
 
-ROC curves were plotted and AUC scores calculated so as to do a comparison of the curves of the 2 models
+* ROC curves were plotted and AUC scores calculated so as to do a comparison of the curves of the 2 models
 
-We plotted a confusion matrix to see where our True and False Positives and Negatives lie 
+* We plotted a confusion matrix to see where our True and False Positives and Negatives lie 
 
 ## 6. Key Findings
 __1. Logistic Regression__:
@@ -152,6 +152,7 @@ Heavy day-minute users are at lower risk of churning but we've to keep the custo
 ## Technologies Used
 - Python: Primary programming language
 - Pandas: Data manipulation and analysis
+- skleran: For modelling purposes
 - Matplotlib: Data visualization
 - Jupyter Notebook: Development environment
 - Git: Commit and push to remote repository
