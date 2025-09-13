@@ -89,6 +89,9 @@ We then added columns that we deemed useful in our analysis. We changed our area
 Next we generated visualisations to check for the relationship between the features especially  'churn' as it is our target variable.  WE used bar graphs, correlation plots, distribution plots and kde plot for our visuals.
 
 ## 4. Modeling
+We resampled the data to address the issue of class imbalance by using SMOTE and Stratified sampling so that the models can learn from both classes
+
+We used the ==train test split==` split method to split the data into training and testing sets using a ==70/30 split== 
 __Visual Data Analysis:__
 
 
