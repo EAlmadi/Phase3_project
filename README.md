@@ -138,15 +138,15 @@ Logistic Regression has a small edge in separating churners from non-churners
 ## Reccomendations 
 1. Improve Customer Support Quality
 
-High service call volume is strongly tied to churn.
-Invest in better training, quicker resolutions, and proactive issue handling.
+* High service call volume is strongly tied to churn.
+* Invest in better training, quicker resolutions, and proactive issue handling.
 
 2.Reassess International Plan Pricing & Policies
 
 International plan customers churn more.
 Review pricing, offer bundled discounts, or add loyalty incentives to retain them.
 
-3.Retain High-Usage Customers
+3. Retain High-Usage Customers
 
 Heavy day-minute users are at lower risk of churning but we've to keep the customers satisfied by creating targeted retention programs (loyalty points, discounted packages, or “VIP customer” care) to reduce churn on loyal customers.
 
