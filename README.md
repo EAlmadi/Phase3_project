@@ -30,7 +30,7 @@ The specific objectives of the project are:
 
 1. To analyze customer attributes and usage patterns in order to identify the key drivers of churn.
 2. To develop, train, and evaluate predictive models that classify customers as churners or non-churners.
-3. To generate actionable business insights and recommendations, based on the model outputs, that can support strategies to reduce customer churn.
+3. To evaluate the classifier model performance using metrics such as F1-score, Precision,Recall, Accuracy score, and AUC
 
 *__1.5 Research Questions__*
 
@@ -38,7 +38,7 @@ The project is guided by the following research questions:
 
 1. What characteristics are most strongly associated with customers who churn?
 2. Which machine learning algorithm provides the best predictive performance for churn classification?
-3. How can the insights from the churn model be applied to design effective customer retention strategies?
+3. Which classifier model has a better F1-score, Precision, Recall, Accuracy score, and AUC?
 
 *__1.6 Success Criteria__:* 
 
@@ -161,6 +161,6 @@ Heavy day-minute users are at lower risk of churning but we've to keep the custo
 
 ## Support
 For questions or support, please contact:
-naledineema@gmail.com, leeelvis562@gmail.com, aginalmadi@gmail.com, mark.muriithi@gmail.com and 
+naledineema@gmail.com, leeelvis562@gmail.com, aginalmadi@gmail.com, mark.muriithi@gmail.com and stephenmunene092@gmail.com
 
 
